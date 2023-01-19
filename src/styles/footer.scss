@@ -1,0 +1,10 @@
+@import "colors";
+
+footer {
+  min-height: 35vh;
+  background-color: $dark;
+  padding: 4rem;
+  display: flex;
+  flex-direction: column;
+  color: $lightDark;
+}
